@@ -1,2 +1,2 @@
 Get the ultimate advantage in Guess The Slapper with this clean, custom-built UI script! Fully optimized, feature-rich, and designed to help you dominate every match effortlessly.   Features: Slap Slider: Instantly choose your slap power when it matters the most. Dodge: Quickly dodge incoming attacks with a single click.   Auto Guess: Automatically handles the guessing phase to secure your wins seamlessly. Auto Queue: Automatically queue to directly slap someone.
-[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Guess-the-Slapper-Sp1ng
+[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Guess-the-Slapper-Sp1ng-Script-232016)](https://scriptblox.com/script/Guess-the-Slapper-Sp1ng-Script-232016)
